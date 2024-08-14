@@ -2,4 +2,12 @@ Algoritmo: Consiste em uma sequência finita de ações executáveis, afim de pr
 Banco de Dados: Consiste na coleção de armazenamento de dados, arquivos de um determinado caso. O banco de dados é controlado por um sistema(SGBD).
 Memória(Computação): Consiste no armazenamento de informações do computador, dados, arquivos.
 Sistema Operacional: Consiste no gerenciamento dos recursos de software e hardware, entrada e saída de dados(windows, linux...)
-Servidor(Computação): Consiste em onde você irá se hospedar para utilização dos recursos de rede, serviços aos computadores conectados a rede(determinado servidor).
+Servidor(Computação): Consiste em onde você irá se hospedar para utilização dos recursos de rede, serviços aos computadores conectados a rede
+(determinado servidor).
+Variável(Computação): Consiste no nome de determinado dado onde você determina o seu valor, podendo ser numérica, textos, estados booleanos...
+Nuvem: Consiste em um armazenamento de arquivos e processamento de dados através da internet, 
+permitindo acessar de uma internet pública ou privada podendo acessar dados de qualquer computador e qualquer lugar.
+Zero-Rating: Consiste na gratuidade no tráfego de dados a fim de uma aplicação e serviço específico, sem consumir dados móveis(WhatsApp)
+Neutralidade da rede: Consiste em garantir a liberdade e igualdade na internet, dessa formatodos tenham as mesmas oportunidades 
+de acessar e compartilhar informações.
+Dados: Consiste em qualquer sequência de entradas para um computador.
