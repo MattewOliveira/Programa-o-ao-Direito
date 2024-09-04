@@ -1,0 +1,21 @@
+JavaScript(JS)- é uma linguagem com tipagem fraca, ou seja, não permite que o programador defina o tipo de variável, 
+é uma linguagem case-sensitive, com ela você consegue fazer maiores e melhores interações em seus sites, aplicativos.
+Ex:
+console.log("Hello, World!");
+C- é uma linguagem compilada de propósito geral, de alto nível com uma sintaxe bastante estruturada e 
+flexível tornando sua programação bastante simplificada, permite o uso de parâmetros.
+Ex:
+int main(void)
+{
+	printf("Hello World!\n");
+
+	return 0;
+}
+Python-  é uma linguagem de programação imperativa, interpretada, de alto nível e com tipagem forte e dinâmica, é 
+uma linguagem multi-paradigma, pois aceita diferentes formas de programação. Usada em aplicações da Web, 
+desenvolvimento de software, ciência de dados
+Ex:
+msg = "Hello World"
+print(msg)
+
+
